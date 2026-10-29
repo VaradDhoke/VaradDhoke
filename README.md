@@ -83,7 +83,7 @@ I don't believe you need to know everything before you start building. Sometimes
 
 I'm always happy to connect with fellow developers, exchange ideas, talk about interesting projects, or discuss why a bug that *shouldn't exist* somehow exists.
 
-- 💼 **LinkedIn:** [Varad Dhoke](https://www.linkedin.com/in/VaradDhoke)
+- 💼 **LinkedIn:** [Varad Dhoke](https://www.linkedin.com/in/varad-dhoke)
 - 🧑‍💻 **GitHub:** [@VaradDhoke](https://github.com/VaradDhoke)
 
 If something here catches your interest, feel free to explore my repositories!
